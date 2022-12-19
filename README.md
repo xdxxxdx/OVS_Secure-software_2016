@@ -1,2 +1,3 @@
 # OVS_Secure-software_2016
-Project for secure software _Exploit stack overflow 
+Project for for KU Leuven secure software
+Computer Scinece 2016 -2017 course.
